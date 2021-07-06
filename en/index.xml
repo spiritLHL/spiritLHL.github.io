@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>welcome to my blog！</title>
+        <link>https://www.spiritLHL.top/en/</link>
+        <description>个人学习日志</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>spiritlhlbusiness@163.com (二叉树上的我)</managingEditor>
+            <webMaster>spiritlhlbusiness@163.com (二叉树上的我)</webMaster>
+            <atom:link href="https://www.spiritLHL.top/en/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
