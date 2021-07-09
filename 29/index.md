@@ -130,7 +130,7 @@ ql repo https://github.com/panghu999/jd_scripts.git "jd_|jx_|getJDCookie" "activ
 
 ```确认```完后点```操作列```中的```开始按钮```执行一次，等待完成后点```操作列```中的```禁用按钮```禁用，建议禁用，避免作者删库跑路，也可以不禁用，但不建议新手如此操作。
 
-**[7月6日更新的JD脚本仓库合集，上面拉取库用这个](https://www.spiritlhl.top/35/)**
+**[7月6日更新的JD脚本仓库合集，拉取库点这个用最新的](https://www.spiritlhl.top/35/)**
 
 ### step9 添加ck
 
@@ -192,4 +192,8 @@ PUSH_PLUS_USER 选填，一对一则不填，一对多必填，填入pushplus群
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
 **[相关挂机项目点我跳转](https://git.spiritlhl.workers.dev/spiritLHL/Hang-up-items)**
+
+# 欢迎请站长喝一杯
+
+![](http://www.spiritclub.top/zz.jpg)
 

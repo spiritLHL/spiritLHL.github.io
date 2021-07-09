@@ -110,3 +110,7 @@ systemctl status vncserver@\:1
 ### 后言
 
 除了不能使用exe文件，其他和win系统没啥区别，浏览器默认安装火狐的好像，不用更新，不然占用会很大。
+
+# 欢迎请站长喝一杯
+
+![](http://www.spiritclub.top/zz.jpg)

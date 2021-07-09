@@ -125,6 +125,14 @@ mobileUserAgent = {
 
 [备用仓库](https://gitee.com/spiritlhl/Cov2019Analysis)
 
+### 常微分偏微分建模练习
+
+[**doc文件下载请自行加速**](https://github.com/spiritLHL/college-item/raw/master/%E5%B8%B8%E5%BE%AE%E5%88%86%E5%81%8F%E5%BE%AE%E5%88%86%E7%BB%83%E4%B9%A07%E6%9C%889%E6%97%A5.docx)
+
+[**python数据处理的所有文件**](https://spiritlhl.lanzoui.com/inrOFr79utc)
+
+[**matlab建模的所有文件**](https://spiritlhl.lanzoui.com/izqwWr7a04d)
+
 ### 自建小站点
 
 随手搭的小玩意，如果有会员欢迎联系我捐赠进行高速解析：[百度云盘直链解析站点](http://www.spiritclub.top/)。
@@ -133,3 +141,7 @@ mobileUserAgent = {
 
 随手搭的小玩意，代挂某东JD活动，有需要自行联系我：[JD用户面板](http://a.spiritysdx.top:8888/)。
 
+
+# 欢迎请站长喝一杯
+
+![](http://www.spiritclub.top/zz.jpg)

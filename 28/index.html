@@ -6,7 +6,7 @@
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
         <title>基于常微分及时间序列模型的印度人口增长预测 - 二叉树的博客</title><meta name="Description" content="个人学习日志"><meta property="og:title" content="基于常微分及时间序列模型的印度人口增长预测" />
-<meta property="og:description" content="问题 以人口总数、人口年度增长率为研究对象，利用并根据世界人口网搜索1959年到2018年印度国家人口统计数据进行参数估计，即数据拟合，并对2" />
+<meta property="og:description" content="前言 感谢组员的共同协作。 问题 以人口总数、人口年度增长率为研究对象，利用并根据世界人口网搜索1959年到2018年印度国家人口统计数据进行参数" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.spiritLHL.top/28/" /><meta property="og:image" content="https://www.spiritLHL.top/logo.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2021-06-27T00:00:00+00:00" />
@@ -16,7 +16,7 @@
 <meta name="twitter:image" content="https://www.spiritLHL.top/logo.png"/>
 
 <meta name="twitter:title" content="基于常微分及时间序列模型的印度人口增长预测"/>
-<meta name="twitter:description" content="问题 以人口总数、人口年度增长率为研究对象，利用并根据世界人口网搜索1959年到2018年印度国家人口统计数据进行参数估计，即数据拟合，并对2"/>
+<meta name="twitter:description" content="前言 感谢组员的共同协作。 问题 以人口总数、人口年度增长率为研究对象，利用并根据世界人口网搜索1959年到2018年印度国家人口统计数据进行参数"/>
 <meta name="application-name" content="LoveIt">
 <meta name="apple-mobile-web-app-title" content="LoveIt"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -29,7 +29,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/www.spiritLHL.top\/28\/"
-        },"genre": "posts","keywords": "matlab, 数学建模","wordcount":  1268 ,
+        },"genre": "posts","keywords": "matlab, 数学建模","wordcount":  1280 ,
         "url": "https:\/\/www.spiritLHL.top\/28\/","datePublished": "2021-06-27T00:00:00+00:00","dateModified": "2021-06-27T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -110,7 +110,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">基于常微分及时间序列模型的印度人口增长预测</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>二叉树上的我</a></span>&nbsp;<span class="post-category">收录于 <a href="/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"><i class="far fa-folder fa-fw"></i>数学建模</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-06-27">2021-06-27</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 1268 字&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-06-27">2021-06-27</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 1280 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 3 分钟&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="true">
                 <div class="details-summary toc-title">
@@ -119,6 +119,7 @@
                 </div>
                 <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
   <ul>
+    <li><a href="#前言">前言</a></li>
     <li><a href="#问题">问题</a></li>
     <li><a href="#代码">代码</a>
       <ul>
@@ -131,7 +132,9 @@
     </li>
   </ul>
 </nav></div>
-            </div><div class="content" id="content"><h2 id="问题">问题</h2>
+            </div><div class="content" id="content"><h2 id="前言">前言</h2>
+<p>感谢组员的共同协作。</p>
+<h2 id="问题">问题</h2>
 <p>以人口总数、人口年度增长率为研究对象，利用并根据世界人口网搜索1959年到2018年印度国家人口统计数据进行参数估计，即数据拟合，并对2019年印度人口进行增长预测。
 用数学建模预测人口增长的方法主要有差分方程、微分方程、回归分析、时间序列等，结合题目、搜索到的数据以及《常微分方程》课本中所学知识，本小组以微分方程形式表示的改进指数增长模型、logistic模型为基础，以时间序列模型为拓展课题，建立以时间为自变量的印度人口增长模型。利用历史数据带入模型求解并做出预测。</p>
 <h2 id="代码">代码</h2>

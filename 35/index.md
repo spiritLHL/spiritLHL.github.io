@@ -302,3 +302,7 @@ ql raw https://raw.githubusercontent.com/curtinlv/JD-Script/main/OpenCard/jd_Ope
 ```
 ql raw https://raw.githubusercontent.com/curtinlv/JD-Script/main/getFollowGifts/jd_getFollowGift.py
 ```
+
+# 欢迎请站长喝一杯
+
+![](http://www.spiritclub.top/zz.jpg)
