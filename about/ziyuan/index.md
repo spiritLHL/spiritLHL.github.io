@@ -139,7 +139,11 @@ mobileUserAgent = {
 
 解析密码：spiritlhl
 
-随手搭的小玩意，代挂某东JD活动，有需要自行联系我：[JD用户面板](http://a.spiritysdx.top:8888/)。
+随手搭的小玩意，代挂某东JD活动，有需要请[联系我](https://jq.qq.com/?_wv=1027&k=ptoIt761)
+
+[**代挂JD日常任务**](http://a.spiritysdx.top:8888/)
+
+[**代挂JD互助任务**](http://43.132.171.233:12345/)
 
 
 # 欢迎请站长喝一杯
