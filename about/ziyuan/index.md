@@ -139,6 +139,8 @@ mobileUserAgent = {
 
 解析密码：spiritlhl
 
+解析下载需要IDM等软件搭配，建议去[吾爱破解论坛](https://www.52pojie.cn/)下个破解版IDM搭配使用。
+
 随手搭的小玩意，代挂某东JD活动，有需要请[联系我](https://jq.qq.com/?_wv=1027&k=ptoIt761)
 
 [**代挂JD日常任务**](http://a.spiritysdx.top:8888/)

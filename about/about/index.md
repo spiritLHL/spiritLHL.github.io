@@ -9,8 +9,6 @@
 
 更多学习资料欢迎访问[Python123](https://python123.io/)、[CSDN论坛](https://blog.csdn.net/)与[吾爱破解论坛](https://www.52pojie.cn/)。
 
-解析下载需要IDM等软件搭配，建议去[吾爱破解论坛](https://www.52pojie.cn/)下个破解版IDM搭配使用。
-
 友链：[萌新论坛](https://www.lolichan.vip)。
 
 欢迎请博主喝一杯
