@@ -11,7 +11,7 @@
 
 友链：[萌新论坛](https://www.lolichan.vip)。
 
-欢迎请博主喝一杯
+欢迎请站长喝一杯
 
 ![](https://spiritlhl-tc.oss-cn-beijing.aliyuncs.com/zz.jpg)
 
