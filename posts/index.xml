@@ -4,7 +4,14 @@
         <link>https://www.spiritLHL.top/posts/</link>
         <description>归档 | 二叉树的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>spiritlhlbusiness@163.com (二叉树上的我)</managingEditor>
-            <webMaster>spiritlhlbusiness@163.com (二叉树上的我)</webMaster><lastBuildDate>Fri, 09 Jul 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.spiritLHL.top/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>spiritlhlbusiness@163.com (二叉树上的我)</webMaster><lastBuildDate>Tue, 13 Jul 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.spiritLHL.top/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>多元回归和熵值评价法及多目标遗传优化算法</title>
+    <link>https://www.spiritLHL.top/37/</link>
+    <pubDate>Tue, 13 Jul 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://www.spiritLHL.top/37/</guid>
+    <description><![CDATA[前言 感谢组员书写书面报告，代码部分由我书写，我写的很烂，将就看吧。 第一届长三角数学建模 B题 锅炉水冷壁温度曲线 1Stopt多元拟合 个人体会： 只]]></description>
+</item><item>
     <title>改进的SIR差分模型及三个模型的应用</title>
     <link>https://www.spiritLHL.top/36/</link>
     <pubDate>Fri, 09 Jul 2021 00:00:00 &#43;0000</pubDate>
@@ -70,12 +77,5 @@
     <author>作者</author>
     <guid>https://www.spiritLHL.top/28/</guid>
     <description><![CDATA[前言 感谢组员的共同协作。 问题 以人口总数、人口年度增长率为研究对象，利用并根据世界人口网搜索1959年到2018年印度国家人口统计数据进行参数]]></description>
-</item><item>
-    <title>多重算法实现的迷宫求解问题</title>
-    <link>https://www.spiritLHL.top/27/</link>
-    <pubDate>Fri, 25 Jun 2021 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://www.spiritLHL.top/27/</guid>
-    <description><![CDATA[前言 感谢组员的共同协作。 题目背景 迷宫问题是取自心理学的一个古典实验。在该实验中，将一只老鼠放入一个无顶大盒子的门口处，在出口处放置一块奶酪，]]></description>
 </item></channel>
 </rss>

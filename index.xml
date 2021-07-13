@@ -4,9 +4,16 @@
         <link>https://www.spiritLHL.top/</link>
         <description>个人学习日志</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>spiritlhlbusiness@163.com (二叉树上的我)</managingEditor>
-            <webMaster>spiritlhlbusiness@163.com (二叉树上的我)</webMaster><lastBuildDate>Fri, 09 Jul 2021 00:00:00 &#43;0000</lastBuildDate>
+            <webMaster>spiritlhlbusiness@163.com (二叉树上的我)</webMaster><lastBuildDate>Tue, 13 Jul 2021 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://www.spiritLHL.top/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>多元回归和熵值评价法及多目标遗传优化算法</title>
+    <link>https://www.spiritLHL.top/37/</link>
+    <pubDate>Tue, 13 Jul 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://www.spiritLHL.top/37/</guid>
+    <description><![CDATA[前言 感谢组员书写书面报告，代码部分由我书写，我写的很烂，将就看吧。 第一届长三角数学建模 B题 锅炉水冷壁温度曲线 1Stopt多元拟合 个人体会： 只]]></description>
+</item><item>
     <title>改进的SIR差分模型及三个模型的应用</title>
     <link>https://www.spiritLHL.top/36/</link>
     <pubDate>Fri, 09 Jul 2021 00:00:00 &#43;0000</pubDate>
@@ -107,12 +114,5 @@
     <author>作者</author>
     <guid>https://www.spiritLHL.top/23/</guid>
     <description><![CDATA[题目 二叉链表的建立，先（中、后）序遍历(数据结构严蔚敏C语言版的C++实现) 输入：字符串序列 输出：先（中、后）序序列 处理方法：通过补虚结点，]]></description>
-</item><item>
-    <title>C&#43;&#43;数值逼近-迭代法Aikten法以及牛顿法求解线性方程根通用程序</title>
-    <link>https://www.spiritLHL.top/22/</link>
-    <pubDate>Sat, 15 May 2021 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://www.spiritLHL.top/22/</guid>
-    <description><![CDATA[数值逼近 公元 1225 年，比萨的数学家 Leonardo（即 Fibonacci（斐波那契）），1170-1250）研究了方程 x^3+2*x^2+10*x-20=0 得到一个根 x* = 1.368 808 107]]></description>
 </item></channel>
 </rss>

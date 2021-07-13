@@ -97,6 +97,10 @@ mobileUserAgent = {
 
 [**源文档及相关文件压缩包**](https://spiritlhl.lanzous.com/iHs20dxx0ih)
 
+### 1Stopt安装包
+
+[**点击跳转下载解压即可使用，记得看说明先**](https://spiritlhl.lanzoui.com/ihGCMrdiutc)
+
 ### 代理加速网站
 
 [**主站若下载慢请去镜像站**](https://ghproxy.com/)
@@ -107,33 +111,53 @@ mobileUserAgent = {
 
 [**https://git.spiritlhl.workers.dev**](https://git.spiritlhl.workers.dev)
 
-### 数值逼近课设文件
+### 大学项目文件仓库
 
-[**doc文件下载请自行加速**](https://github.com/spiritLHL/college-item/blob/master/%E3%80%8A%E6%95%B0%E5%80%BC%E9%80%BC%E8%BF%91%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E3%80%8B.doc)
+**仓库文件包含：**
 
-### 数据结构课设文件
+**数值逼近课设文件**
 
-[**doc文件下载请自行加速**](https://github.com/spiritLHL/college-item/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AF%BE%E8%AE%BE.docx)
+**数据结构课设文件**
 
-### 常微分项目文件
+**常微分项目文件**
 
-[**doc文件下载请自行加速**](https://github.com/spiritLHL/college-item/blob/master/%E5%B8%B8%E5%BE%AE%E4%B8%89%E7%BA%A7%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A.doc)
+**常微分偏微分建模练习**
+
+**长三角数学建模B题**
+
+仓库地址：
+
+[https://github.com/spiritLHL/college-item](https://github.com/spiritLHL/college-item)
+
+[备用仓库](https://gitee.com/spiritlhl/college-item)
 
 ### 新冠疫情数据分析文件
 
-[原仓库](https://github.com/spiritLHL/Cov2019Analysis)
+[https://github.com/spiritLHL/Cov2019Analysis](https://github.com/spiritLHL/Cov2019Analysis)
 
 [备用仓库](https://gitee.com/spiritlhl/Cov2019Analysis)
 
 ### 常微分偏微分建模练习
 
-[**doc文件下载请自行加速**](https://github.com/spiritLHL/college-item/raw/master/%E5%B8%B8%E5%BE%AE%E5%88%86%E5%81%8F%E5%BE%AE%E5%88%86%E7%BB%83%E4%B9%A07%E6%9C%889%E6%97%A5.docx)
-
 [**python数据处理的所有文件**](https://spiritlhl.lanzoui.com/inrOFr79utc)
 
 [**matlab建模的所有文件**](https://spiritlhl.lanzoui.com/izqwWr7a04d)
 
-### 自建小站点
+### 长三角数学建模B题
+
+个人自己写的代码文件包，很乱没整理，1Stopt安装包在上面
+
+[**matlab建模的所有文件**](https://spiritlhl.lanzoui.com/iYK0srdj1fa)
+
+## 自建小站点
+
+随手搭的小玩意，免费代挂某东JD活动，有需要请[联系我](https://jq.qq.com/?_wv=1027&k=ptoIt761)
+
+[**代挂JD日常任务站点**](http://a.spiritysdx.top:8888/)
+
+[**代挂JD互助任务站点**](http://43.132.171.233:12345/)
+
+两个面板数据互不相通，有需要建议都扫。
 
 随手搭的小玩意，如果有会员欢迎联系我捐赠进行高速解析：[百度云盘直链解析站点](http://www.spiritclub.top/)。
 
@@ -142,14 +166,6 @@ mobileUserAgent = {
 解析密码：spiritlhl
 
 随手搭的小玩意，[二叉树在线游戏站点](http://43.132.171.233:9999/)。
-
-随手搭的小玩意，代挂某东JD活动，有需要请[联系我](https://jq.qq.com/?_wv=1027&k=ptoIt761)
-
-[**代挂JD日常任务站点**](http://a.spiritysdx.top:8888/)
-
-[**代挂JD互助任务站点**](http://43.132.171.233:12345/)
-
-两个面板数据互不相通，有需要建议都扫。
 
 # 欢迎请站长喝一杯
 
