@@ -4,9 +4,23 @@
         <link>https://www.spiritLHL.top/</link>
         <description>个人学习日志</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>spiritlhlbusiness@163.com (二叉树上的我)</managingEditor>
-            <webMaster>spiritlhlbusiness@163.com (二叉树上的我)</webMaster><lastBuildDate>Tue, 13 Jul 2021 00:00:00 &#43;0000</lastBuildDate>
+            <webMaster>spiritlhlbusiness@163.com (二叉树上的我)</webMaster><lastBuildDate>Thu, 15 Jul 2021 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://www.spiritLHL.top/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>2020新型冠状病毒（COVID-19/2019-nCoV）疫情分析(补档)</title>
+    <link>https://www.spiritLHL.top/38/</link>
+    <pubDate>Thu, 15 Jul 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://www.spiritLHL.top/38/</guid>
+    <description><![CDATA[新型冠状病毒（COVID-19/2019-nCoV）疫情分析 源文档详见：博客相关资源-新冠疫情数据分析文件 重要说明 分析文档：完成度：代码质量]]></description>
+</item><item>
+    <title>某区域流体数据处理(只会写操作，不知道具体意义)</title>
+    <link>https://www.spiritLHL.top/39/</link>
+    <pubDate>Wed, 14 Jul 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://www.spiritLHL.top/39/</guid>
+    <description><![CDATA[前言 帮舍友整的，不知道具体实际意义。 代码 1 2 3 4 5 import numpy as np import pandas as pd data = pd.read_excel(r&#39;C:\Users\祈LHL\D]]></description>
+</item><item>
     <title>多元回归和熵值评价法及多目标遗传优化算法</title>
     <link>https://www.spiritLHL.top/37/</link>
     <pubDate>Tue, 13 Jul 2021 00:00:00 &#43;0000</pubDate>
@@ -100,19 +114,5 @@
     <author>作者</author>
     <guid>https://www.spiritLHL.top/25/</guid>
     <description><![CDATA[题目 中序线索二叉链表的建立及遍历(数据结构严蔚敏C语言版的C++实现) 输入：字符串序列 输出：结点的相关信息，中序序列 处理方法: 1 2 3 4 5 6 1]]></description>
-</item><item>
-    <title>C&#43;&#43;二叉树中叶子结点的个数与深度的统计</title>
-    <link>https://www.spiritLHL.top/24/</link>
-    <pubDate>Mon, 17 May 2021 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://www.spiritLHL.top/24/</guid>
-    <description><![CDATA[题目 统计二叉树中叶子结点的个数，计算二叉树的深度(数据结构严蔚敏C语言版的C++实现) 输入：字符串序列 输出：叶子结点的个数，二叉树的深度 处理]]></description>
-</item><item>
-    <title>C&#43;&#43;二叉树的建立</title>
-    <link>https://www.spiritLHL.top/23/</link>
-    <pubDate>Sun, 16 May 2021 00:00:00 &#43;0000</pubDate>
-    <author>作者</author>
-    <guid>https://www.spiritLHL.top/23/</guid>
-    <description><![CDATA[题目 二叉链表的建立，先（中、后）序遍历(数据结构严蔚敏C语言版的C++实现) 输入：字符串序列 输出：先（中、后）序序列 处理方法：通过补虚结点，]]></description>
 </item></channel>
 </rss>

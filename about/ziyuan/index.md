@@ -125,6 +125,8 @@ mobileUserAgent = {
 
 **长三角数学建模B题**
 
+**小额贷款的划算问题**
+
 仓库地址：
 
 [https://github.com/spiritLHL/college-item](https://github.com/spiritLHL/college-item)
@@ -169,4 +171,4 @@ mobileUserAgent = {
 
 # 欢迎请站长喝一杯
 
-![](https://spiritlhl-tc.oss-cn-beijing.aliyuncs.com/zz.jpg)
+![](https://raw.githubusercontent.com/spiritLHL/tuchuang/master/zz.jpg)

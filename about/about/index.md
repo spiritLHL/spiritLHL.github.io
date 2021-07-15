@@ -13,5 +13,5 @@
 
 欢迎请站长喝一杯
 
-![](https://spiritlhl-tc.oss-cn-beijing.aliyuncs.com/zz.jpg)
+![](https://raw.githubusercontent.com/spiritLHL/tuchuang/master/zz.jpg)
 

@@ -20,7 +20,7 @@
 <meta name="application-name" content="LoveIt">
 <meta name="apple-mobile-web-app-title" content="LoveIt"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://www.spiritLHL.top/37/" /><link rel="prev" href="https://www.spiritLHL.top/36/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><meta name="google-site-verification" content="PBUYROol_Ylr49S5WprAUHubcDCRVYTnSVBGmsM3iAY" /><meta name="msvalidate.01" content="FC9B6B8BEB3D3B56844ADA69766DBB24" /><meta name="yandex-verification" content="a12c7b8653d13f5c" /><meta name="baidu-site-verification" content="code-PDms1QIQxn" /><script type="application/ld+json">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://www.spiritLHL.top/37/" /><link rel="prev" href="https://www.spiritLHL.top/36/" /><link rel="next" href="https://www.spiritLHL.top/39/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><meta name="google-site-verification" content="PBUYROol_Ylr49S5WprAUHubcDCRVYTnSVBGmsM3iAY" /><meta name="msvalidate.01" content="FC9B6B8BEB3D3B56844ADA69766DBB24" /><meta name="yandex-verification" content="a12c7b8653d13f5c" /><meta name="baidu-site-verification" content="code-PDms1QIQxn" /><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -29,7 +29,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/www.spiritLHL.top\/37\/"
-        },"genre": "posts","keywords": "matlab, 数学建模, 皮尔逊相关系数, 熵值法, 多元函数拟合","wordcount":  2776 ,
+        },"genre": "posts","keywords": "matlab, 数学建模, 皮尔逊相关系数, 熵值法, 多元函数拟合","wordcount":  2774 ,
         "url": "https:\/\/www.spiritLHL.top\/37\/","datePublished": "2021-07-13T00:00:00+00:00","dateModified": "2021-07-13T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -110,7 +110,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">多元回归和熵值评价法及多目标遗传优化算法</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>二叉树上的我</a></span>&nbsp;<span class="post-category">收录于 <a href="/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"><i class="far fa-folder fa-fw"></i>数学建模</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-07-13">2021-07-13</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 2776 字&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-07-13">2021-07-13</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 2774 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 6 分钟&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="true">
                 <div class="details-summary toc-title">
@@ -821,44 +821,44 @@ s=100*w*X&#39;; %求综合得分
 </span><span class="lnt">38
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-fallback" data-lang="fallback">function y=fun(x)
-    y(1)=-(x(1)*100/3 + x(3)*90/3  + x(2)*80/2+x(4)*70/2);
-    y(2)=x(3)+x(4);
-end
+<pre class="chroma"><code class="language-matlab" data-lang="matlab"><span class="k">function</span><span class="w"> </span>y<span class="p">=</span><span class="nf">fun</span><span class="p">(</span>x<span class="p">)</span><span class="w">
+</span><span class="w">    </span><span class="n">y</span><span class="p">(</span><span class="mi">1</span><span class="p">)=</span><span class="o">-</span><span class="p">(</span><span class="n">x</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span><span class="o">*</span><span class="mi">100</span><span class="o">/</span><span class="mi">3</span> <span class="o">+</span> <span class="n">x</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span><span class="o">*</span><span class="mi">90</span><span class="o">/</span><span class="mi">3</span>  <span class="o">+</span> <span class="n">x</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span><span class="o">*</span><span class="mi">80</span><span class="o">/</span><span class="mi">2</span><span class="o">+</span><span class="n">x</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span><span class="o">*</span><span class="mi">70</span><span class="o">/</span><span class="mi">2</span><span class="p">);</span>
+    <span class="n">y</span><span class="p">(</span><span class="mi">2</span><span class="p">)=</span><span class="n">x</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span><span class="o">+</span><span class="n">x</span><span class="p">(</span><span class="mi">4</span><span class="p">);</span>
+<span class="k">end</span>
 
-clear
-clc
-fitnessfcn=@fun;
-% 变量个数
-nvars=4;
-% lb&lt;= X &lt;= ub
-lb=[0,0,0,0];
-ub=[];
-% A*X &lt;= b 
-A = [0    0 1 1
-    -1/3  0 0 0
-     0 -1/2 0 0
-     0    0 0 0];
+<span class="n">clear</span>
+<span class="n">clc</span>
+<span class="n">fitnessfcn</span><span class="p">=@</span><span class="n">fun</span><span class="p">;</span>
+<span class="c">% 变量个数</span>
+<span class="n">nvars</span><span class="p">=</span><span class="mi">4</span><span class="p">;</span>
+<span class="c">% lb&lt;= X &lt;= ub</span>
+<span class="n">lb</span><span class="p">=[</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">];</span>
+<span class="n">ub</span><span class="p">=[];</span>
+<span class="c">% A*X &lt;= b </span>
+<span class="n">A</span> <span class="p">=</span> <span class="p">[</span><span class="mi">0</span>    <span class="mi">0</span> <span class="mi">1</span> <span class="mi">1</span>
+    <span class="o">-</span><span class="mi">1</span><span class="o">/</span><span class="mi">3</span>  <span class="mi">0</span> <span class="mi">0</span> <span class="mi">0</span>
+     <span class="mi">0</span> <span class="o">-</span><span class="mi">1</span><span class="o">/</span><span class="mi">2</span> <span class="mi">0</span> <span class="mi">0</span>
+     <span class="mi">0</span>    <span class="mi">0</span> <span class="mi">0</span> <span class="mi">0</span><span class="p">];</span>
  
-b = [48 ; 30 ; 30 ; 0];
+<span class="n">b</span> <span class="p">=</span> <span class="p">[</span><span class="mi">48</span> <span class="p">;</span> <span class="mi">30</span> <span class="p">;</span> <span class="mi">30</span> <span class="p">;</span> <span class="mi">0</span><span class="p">];</span>
  
-% Aeq*X = beq
-Aeq=[1 1 0 0;0 0 0 0; 0 0 0 0; 0 0 0 0];
-beq=[120;0;0;0];
-%最优个体系数paretoFraction
-%种群大小populationsize
-%最大进化代数generations
-%停止代数stallGenLimit
-%适应度函数偏差TolFun
-%函数gaplotpareto：绘制Pareto前沿 options=gaoptimset(&#39;paretoFraction&#39;,0.3,&#39;populationsize&#39;,200,&#39;generations&#39;,300,&#39;stallGenLimit&#39;,200,&#39;TolFun&#39;,1e-10,&#39;PlotFcns&#39;,@gaplotpareto);
+<span class="c">% Aeq*X = beq</span>
+<span class="n">Aeq</span><span class="p">=[</span><span class="mi">1</span> <span class="mi">1</span> <span class="mi">0</span> <span class="mi">0</span><span class="p">;</span><span class="mi">0</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">0</span><span class="p">;</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">0</span><span class="p">;</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">0</span> <span class="mi">0</span><span class="p">];</span>
+<span class="n">beq</span><span class="p">=[</span><span class="mi">120</span><span class="p">;</span><span class="mi">0</span><span class="p">;</span><span class="mi">0</span><span class="p">;</span><span class="mi">0</span><span class="p">];</span>
+<span class="c">%最优个体系数paretoFraction</span>
+<span class="c">%种群大小populationsize</span>
+<span class="c">%最大进化代数generations</span>
+<span class="c">%停止代数stallGenLimit</span>
+<span class="c">%适应度函数偏差TolFun</span>
+<span class="c">%函数gaplotpareto：绘制Pareto前沿 options=gaoptimset(&#39;paretoFraction&#39;,0.3,&#39;populationsize&#39;,200,&#39;generations&#39;,300,&#39;stallGenLimit&#39;,200,&#39;TolFun&#39;,1e-10,&#39;PlotFcns&#39;,@gaplotpareto);</span>
  
-[x,fval]=gamultiobj(fitnessfcn,nvars,A,b,Aeq,beq,lb,ub,options)
+<span class="p">[</span><span class="n">x</span><span class="p">,</span><span class="n">fval</span><span class="p">]=</span><span class="n">gamultiobj</span><span class="p">(</span><span class="n">fitnessfcn</span><span class="p">,</span><span class="n">nvars</span><span class="p">,</span><span class="n">A</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">Aeq</span><span class="p">,</span><span class="n">beq</span><span class="p">,</span><span class="n">lb</span><span class="p">,</span><span class="n">ub</span><span class="p">,</span><span class="n">options</span><span class="p">)</span>
  
-plot(-fval(:,1),fval(:,2),&#39;pr&#39;)
-xlabel(&#39;f_1(x)&#39;)
-ylabel(&#39;f_2(x)&#39;)
-title(&#39;Pareto front&#39;)
-grid on
+<span class="n">plot</span><span class="p">(</span><span class="o">-</span><span class="n">fval</span><span class="p">(:,</span><span class="mi">1</span><span class="p">),</span><span class="n">fval</span><span class="p">(:,</span><span class="mi">2</span><span class="p">),</span><span class="s">&#39;pr&#39;</span><span class="p">)</span>
+<span class="n">xlabel</span><span class="p">(</span><span class="s">&#39;f_1(x)&#39;</span><span class="p">)</span>
+<span class="n">ylabel</span><span class="p">(</span><span class="s">&#39;f_2(x)&#39;</span><span class="p">)</span>
+<span class="n">title</span><span class="p">(</span><span class="s">&#39;Pareto front&#39;</span><span class="p">)</span>
+<span class="n">grid</span> <span class="n">on</span>
 </code></pre></td></tr></table>
 </div>
 </div><p><strong>完整文档详见：<a href="https://www.spiritlhl.top/ziyuan/" target="_blank" rel="noopener noreffer">博客相关资源-长三角数学建模B题</a></strong></p>
@@ -887,7 +887,8 @@ grid on
         </section>
     </div>
 
-    <div class="post-nav"><a href="/36/" class="prev" rel="prev" title="改进的SIR差分模型及三个模型的应用"><i class="fas fa-angle-left fa-fw"></i>改进的SIR差分模型及三个模型的应用</a></div>
+    <div class="post-nav"><a href="/36/" class="prev" rel="prev" title="改进的SIR差分模型及三个模型的应用"><i class="fas fa-angle-left fa-fw"></i>改进的SIR差分模型及三个模型的应用</a>
+            <a href="/39/" class="next" rel="next" title="某区域流体数据处理(只会写操作，不知道具体意义)">某区域流体数据处理(只会写操作，不知道具体意义)<i class="fas fa-angle-right fa-fw"></i></a></div>
 </div>
 
 <div id="comments"><div id="telegram-comments" class="comment"></div><noscript>
