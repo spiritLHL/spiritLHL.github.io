@@ -195,5 +195,5 @@ PUSH_PLUS_USER 选填，一对一则不填，一对多必填，填入pushplus群
 
 # 欢迎请站长喝一杯
 
-![](https://raw.githubusercontent.com/spiritLHL/tuchuang/master/zz.jpg)
+![](https://i.loli.net/2021/07/15/UPk5VbzAIC6OM7y.jpg)
 

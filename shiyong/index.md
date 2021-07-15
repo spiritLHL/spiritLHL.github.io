@@ -72,4 +72,4 @@ QLHL
 
 # 欢迎请站长喝一杯
 
-![](https://spiritlhl-tc.oss-cn-beijing.aliyuncs.com/zz.jpg)
+![](https://i.loli.net/2021/07/15/UPk5VbzAIC6OM7y.jpg)
